@@ -62,10 +62,7 @@ This Odoo implementation demonstrates how a tailored ERP solution can revolution
 
 ---
 
-## 📎 Files and Resources
-- [SQL Database Structure](./path-to-sql-file.sql) *(if applicable)*
-- [Odoo Module Files](./path-to-odoo-modules.zip) *(if applicable)*
-- [Detailed Documentation](./path-to-documentation.pdf)
+
 
 ---
 
