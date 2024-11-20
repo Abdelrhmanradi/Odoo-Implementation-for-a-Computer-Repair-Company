@@ -63,7 +63,3 @@ This Odoo implementation demonstrates how a tailored ERP solution can revolution
 ---
 
 
-
----
-
-> Developed with ❤️ by [Your Name](https://github.com/YourGitHubUsername).
